@@ -1,0 +1,4 @@
+baseURL = 'https://vaibhavxlr.one/'
+languageCode = 'en-us'
+title = 'vaibhavxlr blog'
+theme = 'ananke'
